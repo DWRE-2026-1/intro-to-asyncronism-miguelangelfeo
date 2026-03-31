@@ -1,3 +1,14 @@
+# Miguel Angel Feo Merchan 
+## Link de la pagina desplegada
+https://dwre-2026-1.github.io/intro-to-asyncronism-miguelangelfeo/
+
+## Funcionalidades
+Al seleccionar un pokemon, se permiten ver diferentes datos sobre el pokemon con una imagen, ademas, el boton horizontal de la cruzeta permite ver la forma shiny y permite ver mas información sobre el pokemon. 
+Tambien se puede buscar un pokemon por el nombre, ya sea oprimiendo buscar, o oprimiendo la tecla enter
+
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7XMn_qJk)
 # Desarrollo de Aplicaciones Web
 ## Introducción al Asíncronismo
 
